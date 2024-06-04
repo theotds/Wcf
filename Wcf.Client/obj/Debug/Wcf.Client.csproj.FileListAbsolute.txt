@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Wcf\Wcf.Client\bin\Debug\Wcf.Client.exe.config
+C:\Users\PC\source\repos\Wcf\Wcf.Client\bin\Debug\Wcf.Client.exe
+C:\Users\PC\source\repos\Wcf\Wcf.Client\bin\Debug\Wcf.Client.pdb
+C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.exe
+C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.pdb
