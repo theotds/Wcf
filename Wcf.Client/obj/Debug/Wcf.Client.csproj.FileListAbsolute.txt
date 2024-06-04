@@ -5,3 +5,7 @@ C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.csproj.AssemblyRefe
 C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.exe
 C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.pdb
+C:\Users\PC\source\repos\Wcf\Wcf.Client\bin\Debug\Wcf.Server.exe
+C:\Users\PC\source\repos\Wcf\Wcf.Client\bin\Debug\Wcf.Server.pdb
+C:\Users\PC\source\repos\Wcf\Wcf.Client\bin\Debug\Wcf.Server.exe.config
+C:\Users\PC\source\repos\Wcf\Wcf.Client\obj\Debug\Wcf.Client.csproj.Up2Date

@@ -50,5 +50,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Wcf.Server\Wcf.Server.csproj">
+      <Project>{6AE64275-F347-44CD-A214-A25F107419C7}</Project>
+      <Name>Wcf.Server</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

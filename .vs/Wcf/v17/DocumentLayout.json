@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Wcf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|c:\\users\\pc\\source\\repos\\wcf\\wcf.server\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|solutionrelative:wcf.server\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|c:\\users\\pc\\source\\repos\\wcf\\wcf.server\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|solutionrelative:wcf.server\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|c:\\users\\pc\\source\\repos\\wcf\\wcf.server\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|solutionrelative:wcf.server\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|c:\\users\\pc\\source\\repos\\wcf\\wcf.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AE64275-F347-44CD-A214-A25F107419C7}|Wcf.Server\\Wcf.Server.csproj|solutionrelative:wcf.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,18 +29,31 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 218,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "books.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\books.txt",
+              "RelativeDocumentMoniker": "Wcf.Server\\books.txt",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\books.txt",
+              "RelativeToolTip": "Wcf.Server\\books.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-04T21:38:25.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Client\\Program.cs",
               "RelativeDocumentMoniker": "Wcf.Client\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Client\\Program.cs",
               "RelativeToolTip": "Wcf.Client\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T19:50:53.532Z",
               "EditorCaption": ""
@@ -36,18 +61,44 @@
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 182,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ILibrary.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\ILibrary.cs",
+              "RelativeDocumentMoniker": "Wcf.Server\\ILibrary.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\ILibrary.cs",
+              "RelativeToolTip": "Wcf.Server\\ILibrary.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:17:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\Library.cs",
+              "RelativeDocumentMoniker": "Wcf.Server\\Library.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\Library.cs",
+              "RelativeToolTip": "Wcf.Server\\Library.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:17:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\Program.cs",
               "RelativeDocumentMoniker": "Wcf.Server\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Wcf\\Wcf.Server\\Program.cs",
               "RelativeToolTip": "Wcf.Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T19:36:07.953Z",
               "EditorCaption": ""
