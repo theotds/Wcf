@@ -27,9 +27,33 @@ namespace Server
                 string port = Console.ReadLine();
 
                 //get IP
-                var ipv4Addresses = GetIPv4Addresses().ToList();
-                string IP = ipv4Addresses[1]; 
-                Console.WriteLine($"port:{port}\nip: {IP}");
+                string IP;
+                while (true)
+                {
+
+                    Console.WriteLine("Please select the IP for the server:");
+                    var ipv4Addresses = GetIPv4Addresses().ToList();
+                    int i = 0;
+                    foreach (string ip in ipv4Addresses)
+                    {
+                        Console.WriteLine($"{i}: {ip}");
+                        i++;
+                    }
+                    Console.Write("Select an IP address by number: ");
+                    int index = int.Parse(Console.ReadLine());
+                    if (index < ipv4Addresses.Count && index >=0)
+                    {
+
+                        IP = ipv4Addresses[index];
+                        Console.WriteLine($"port:{port}\nip: {IP}");
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("wrong index, try again\n");
+
+                    }
+                }
                 
                 //connect
                 string serviceAddress = $"net.tcp://{IP}:{port}/Library";
